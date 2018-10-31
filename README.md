@@ -5,3 +5,7 @@ Using the A* pathfinding algorithm to find the shortest path between 2 points in
 Point A - Where the Player object is
 
 Point B - Location where the user has clicked
+
+
+
+Sprites from 2D Roguelike by Unity from asset store
