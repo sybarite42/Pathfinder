@@ -4,9 +4,8 @@ Find the shortest path from the player to the location clicked in a grid-based e
 
 Using the A* pathfinding algorithm programmed in C#
 
-<<<<<<< HEAD
-Point B - Location where the user has clicked
 
+Point B - Location where the user has clicked
 
 Player is the blue square and can move an 8 directions
 Black tiles are impassable
